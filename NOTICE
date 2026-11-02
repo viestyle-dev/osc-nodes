@@ -1,0 +1,6 @@
+osc-nodes
+Copyright 2026 VIE, Inc.
+
+This product includes code adapted from python-osc
+(https://github.com/attwad/python-osc), released into the public domain
+under the Unlicense: osc_nodes/osc_server_registry.py (dispatcher logic).
